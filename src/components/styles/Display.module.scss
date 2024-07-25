@@ -1,0 +1,16 @@
+.display-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.display {
+    height: 32px;
+    width: 80%;
+    border: 1px solid grey;
+    text-align: right;
+}
+
+.memory-icon {
+    width: 15%;
+    height: 32px;
+}
